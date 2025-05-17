@@ -28,8 +28,6 @@ irm https://get.activated.win | iex
 ```
 iex (irm là.gd/idm_reset)
 ```
-________________________________________________________________________
-![](https://raw.githubusercontent.com/VishwaGauravIn/Images/f13849bc9989d66c67085313dd606ea978eff0f8/psi-gprm.svg)
 ____________________________________________________________________________
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
