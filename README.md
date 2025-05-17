@@ -2,13 +2,13 @@
 
 <h1 align="center">Yo, I'm Nguyễn Minh Duy 🚀</h1>
 
-Welcome to my official GitHub page.
+Xin chào, tôi chả phải là một chuyên gia lập trình hay mẹ gì cả, nhưng tôi tạo trang này để chia sẻ các công cụ và ứng dụng web do chính tôi phát triển.
 
-Here, I curate and develop high-quality open-source tools and libraries that serve diverse needs in modern software development. Additionally, I share sample code, technical solutions, and practical programming tips aimed at optimizing workflows and improving efficiency.
+Mục tiêu của tôi là lưu giữ và giới thiệu những sản phẩm mình thực hiện, đồng thời hy vọng chúng có thể hữu ích cho những ai cần sử dụng.
 
-This page is designed to be a reliable resource hub, supporting developers at all levels—from beginners to experts—in enhancing their skills and expanding their knowledge. I am always open to collaboration and exchange to grow together in the tech community.
+Nếu bạn quan tâm hoặc thấy giá trị, rất vui được kết nối và trao đổi cùng bạn.
 
-Thank you for visiting
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/duynguyen2k6/count.svg" />
