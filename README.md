@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Yo, I'm Nguyễn Minh Duy! 🚀</h1>
+<h1 align="center">Yo, I'm Nguyễn Minh Duy 🚀</h1>
 
 
 <p align="center"> 
