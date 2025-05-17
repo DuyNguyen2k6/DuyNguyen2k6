@@ -24,12 +24,16 @@ ____________________________________________________________
 ```powershell
 irm "https://christitus.com/win" | iex
 ```
+
 ```powershell
 irm https://get.activated.win | iex
 ```
+
 ```powershell
 iex (irm là.gd/idm_reset)
 ```
+
+
 __________________________________
 Perplexity: ▓▓▓▓▓░░░░░░░░░░░ 30%  
 CLAUDE :  ▓▓▓▓▓▓▓▓░░░░░░░░ 60%  
