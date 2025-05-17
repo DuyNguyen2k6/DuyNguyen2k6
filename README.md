@@ -21,10 +21,10 @@ ____________________________________________________________
 irm "https://christitus.com/win" | iex
 ```
 
-```powershell
+```
 irm https://get.activated.win | iex
 ```
 
-```powershell
+```
 iex (irm là.gd/idm_reset)
 ```
