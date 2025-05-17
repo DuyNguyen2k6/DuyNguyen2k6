@@ -24,6 +24,6 @@ irm https://get.activated.win | iex
 iex (irm là.gd/idm_reset)
 ```
 __________________________________
-Perplexity :     ▓▓▓▓▓░░░░░░░░░░░ 30%  
-CLAUDE :      ▓▓▓▓▓▓▓▓░░░░░░░░ 60%  
-Chat GPT:      ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 85%  
+Perplexity: ▓▓▓▓▓░░░░░░░░░░░ 30%  
+CLAUDE :  ▓▓▓▓▓▓▓▓░░░░░░░░ 60%  
+Chat GPT:  ▓▓▓▓▓▓▓▓▓▓▓░░░░░ 85%  
