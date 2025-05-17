@@ -17,8 +17,6 @@ Nếu bạn quan tâm hoặc thấy giá trị, rất vui được kết nối v
 
 ____________________________________________________________
 
-
-
 ```powershell
 irm "https://christitus.com/win" | iex
 ```
@@ -30,6 +28,3 @@ irm https://get.activated.win | iex
 ```powershell
 iex (irm là.gd/idm_reset)
 ```
-
-
-__________________________________
