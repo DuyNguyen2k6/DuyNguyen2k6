@@ -1,6 +1,8 @@
 ## Hi there 👋
+⚡ Fun fact: ...
+![image](https://github.com/user-attachments/assets/b3078d5c-1246-4186-82f6-76c70ef05f3e)
 
-<!--
+
 **DuyNguyen2k6/DuyNguyen2k6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
