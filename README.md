@@ -1,7 +1,6 @@
-<h1 align="center">Xin chào 👋, tôi là Nguyễn Minh Duy</h1>
-<h3 align="center">Một lập trình viên App,Web,Extensioon đầy nhiệt huyết đến từ Việt Nam</h3>
+<h1 align="center">Yo, I'm Nguyễn Minh Duy! 🚀</h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
 
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/duynguyen2k6/count.svg" />
