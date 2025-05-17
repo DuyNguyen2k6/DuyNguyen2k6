@@ -8,11 +8,6 @@ Mục tiêu của tôi là lưu giữ và giới thiệu những sản phẩm m�
 
 Nếu bạn quan tâm hoặc thấy giá trị, rất vui được kết nối và trao đổi cùng bạn.
 
-___________________________________________________________________
-
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/duynguyen2k6/count.svg" />
-</p>
 
 
 ____________________________________________________________
@@ -28,6 +23,13 @@ irm https://get.activated.win | iex
 ```
 iex (irm là.gd/idm_reset)
 ```
+
+___________________________________________________________________
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/duynguyen2k6/count.svg" />
+</p>
+
 ____________________________________________________________________________
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
