@@ -17,7 +17,7 @@ Nếu bạn quan tâm hoặc thấy giá trị, rất vui được kết nối v
 
 ____________________________________________________________
 
-```powershell
+```
 irm "https://christitus.com/win" | iex
 ```
 
