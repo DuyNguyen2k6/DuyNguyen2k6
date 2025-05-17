@@ -1,8 +1,11 @@
-## Hi there 👋
-**DuyNguyen2k6/DuyNguyen2k6**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning for UTE Danang
-- 💬 Ask me about all
+<h1 align="center">Xin chào 👋, tôi là Nguyễn Minh Duy</h1>
+<h3 align="center">Một lập trình viên App,Web,Extensioon đầy nhiệt huyết đến từ Việt Nam</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=duynguyen2k6&label=Profile%20views&color=0e75b6&style=flat" alt="duynguyen2k6" /> </p>
+
+
+
+
 
 
 
