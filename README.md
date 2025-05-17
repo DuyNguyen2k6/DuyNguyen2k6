@@ -3,13 +3,12 @@
 <h1 align="center">Yo, I'm Nguyễn Minh Duy! 🚀</h1>
 
 
-
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/duynguyen2k6/count.svg" />
 </p>
 
 
-
+____________________________________________________________
 
 
 
