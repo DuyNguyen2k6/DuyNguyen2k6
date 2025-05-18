@@ -5,7 +5,7 @@
   Generated to showcase projects, skills, and contact information.
 -->
 
-# 👋 Hi, I’m Duy Nguyen (DuyNguyen2k6)
+# 👋 Hi, I’m Duy Nguyen
 
 🔭 I’m a Windows application developer and browser extension enthusiast. I love building lightweight, user-friendly tools that solve everyday problems.
 
