@@ -1,12 +1,49 @@
 
 
-<h1 align="center">Yo, I'm Nguyễn Minh Duy 🚀</h1>
+<!--
+  Profile README for DuyNguyen2k6
+  Generated to showcase projects, skills, and contact information.
+-->
 
-Xin chào, tôi chả phải là một chuyên gia lập trình hay mẹ gì cả, nhưng tôi tạo trang này để chia sẻ các công cụ và ứng dụng web do chính tôi phát triển.
+# 👋 Hi, I’m Duy Nguyen (DuyNguyen2k6)
 
-Mục tiêu của tôi là lưu giữ và giới thiệu những sản phẩm mình thực hiện, đồng thời hy vọng chúng có thể hữu ích cho những ai cần sử dụng.
+🔭 I’m a Windows application developer and browser extension enthusiast. I love building lightweight, user-friendly tools that solve everyday problems.
 
-Nếu bạn quan tâm hoặc thấy giá trị, rất vui được kết nối và trao đổi cùng bạn.
+## 🚀 Projects
+
+### Browser Extensions
+
+* **Quick Edit Extension** ([Repo](https://github.com/DuyNguyen2k6/quick-edit_Extension)) – Inline editing of any webpage content with custom styling.
+* **Highlight & Save Extension** ([Repo](https://github.com/DuyNguyen2k6/highligh-save_Extension)) – Highlight text on pages and save, manage, import/export your highlights.
+
+### Windows Utilities
+
+* **Shutdown Timer V2 App** ([Repo](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App)) – Schedule shutdown, restart, or sleep with warnings, countdowns, and tray integration.
+* **CleanerD** ([Repo](https://github.com/DuyNguyen2k6/CleanerD)) – Clean temp files, analyze disk usage, manage registry, and clear browser data with PyQt6 UI.
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python (PyQt6), JavaScript, HTML/CSS
+* **Tools:** PyInstaller, Git, Chrome DevTools
+* **Libraries:** PyQt6, Chrome Extension APIs
+
+## 📈 GitHub Stats
+
+<!-- START: GitHub Readme Stats -->
+
+![DuyNguyen2k6's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyen2k6\&show_icons=true\&theme=dark)
+
+<!-- END: GitHub Readme Stats -->
+
+## 📫 How to Reach Me
+
+* **Email:** [ngduy10102006@gmail.com](mailto:ngduy10102006@gmail.com)
+
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+
 
 
 
