@@ -9,17 +9,23 @@
 
 🔭 I’m a Windows application developer and browser extension enthusiast. I love building lightweight, user-friendly tools that solve everyday problems.
 
-## 🚀 Projects
 
-### Browser Extensions
+---
 
-* **Quick Edit Extension** ([Repo](https://github.com/DuyNguyen2k6/quick-edit_Extension)) – Inline editing of any webpage content with custom styling.
-* **Highlight & Save Extension** ([Repo](https://github.com/DuyNguyen2k6/highligh-save_Extension)) – Highlight text on pages and save, manage, import/export your highlights.
+## 🚀 What I Build
 
-### Windows Utilities
+| Extension          | Description                                   | Link                                                            |
+| ------------------ | -------------------------------------------------------------- | --------------------------------------------------------------- |
+| 📝 Quick Edit      | Make any webpage instantly editable                           | [Repo](https://github.com/DuyNguyen2k6/quick-edit_Extension)    |
+| 🔖 Highlight Saver | Clip & store text highlights with JSON export                  | [Repo](https://github.com/DuyNguyen2k6/highligh-save_Extension) |
 
-* **Shutdown Timer V2 App** ([Repo](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App)) – Schedule shutdown, restart, or sleep with warnings, countdowns, and tray integration.
-* **CleanerD** ([Repo](https://github.com/DuyNguyen2k6/CleanerD)) – Clean temp files, analyze disk usage, manage registry, and clear browser data with PyQt6 UI.
+| App                  | *Description*                                                | Link                                                          |
+| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------- |
+| ⏱️ Shutdown Timer V2 | Schedule shutdown, restart, or sleep with countdown & alerts | [Repo](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App) |
+| 🧹 CleanerD          | Deep-clean your system: temp files, registry, browser data   | [Repo](https://github.com/DuyNguyen2k6/CleanerD)              |
+
+---
+
 
 ## 🛠️ Tech Stack
 
