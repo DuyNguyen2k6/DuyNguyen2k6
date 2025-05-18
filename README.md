@@ -33,13 +33,7 @@
 * **Tools:** PyInstaller, Git, Chrome DevTools
 * **Libraries:** PyQt6, Chrome Extension APIs
 
-## 📈 GitHub Stats
 
-<!-- START: GitHub Readme Stats -->
-
-![DuyNguyen2k6's GitHub stats](https://github-readme-stats.vercel.app/api?username=DuyNguyen2k6\&show_icons=true\&theme=dark)
-
-<!-- END: GitHub Readme Stats -->
 
 ## 📫 How to Reach Me
 
