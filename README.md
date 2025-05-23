@@ -82,4 +82,7 @@ irm https://get.activated.win | iex
 iex (irm là.gd/idm_reset)
 ```
 
+```
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Driver-Backup_App/main/Driver.Backup.tool.ps1" | iex
+```
 
