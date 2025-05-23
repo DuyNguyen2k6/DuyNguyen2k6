@@ -83,3 +83,7 @@ irm https://get.activated.win | iex
 irm "https://raw.githubusercontent.com/DuyNguyen2k6/Driver-Backup_App/main/Driver.Backup.tool.ps1" | iex
 ```
 
+```
+irm "https://tinyurl.com/123DriverBackup" | iex
+```
+
