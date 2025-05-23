@@ -11,6 +11,7 @@ Mình không phải là chuyên gia lập trình, nhưng mình đam mê công ng
 - [Quick Edit Extension](https://github.com/DuyNguyen2k6/quick-edit_Extension)
 - [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension)
 - [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger)
+ - [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App)
 ## ✨ Định hướng
 
 - Ưu tiên các công cụ đơn giản, dễ sử dụng, giao diện thân thiện.
