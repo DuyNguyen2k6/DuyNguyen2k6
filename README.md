@@ -5,12 +5,12 @@ Mình không phải là chuyên gia lập trình, nhưng mình đam mê công ng
 
 ## 🚀 Tổng hợp các dự án nổi bật
 
-- [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy): Công cụ đóng gói file Python thành .exe với giao diện trực quan, hỗ trợ kéo thả, chọn icon, thêm file phụ và tuỳ chọn lưu.
-- [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App): Ứng dụng hẹn giờ tắt máy cho Windows với nhiều tính năng mở rộng như huỷ lịch, cảnh báo, tuỳ chọn chế độ.
-- [CleanerD](https://github.com/DuyNguyen2k6/CleanerD): Ứng dụng dọn dẹp hệ thống, tối ưu bộ nhớ, phân tích dung lượng ổ đĩa, và hiển thị thông tin phần cứng.
-- [Quick Edit Extension](https://github.com/DuyNguyen2k6/quick-edit_Extension): Extension tiện lợi giúp chỉnh sửa nhanh nội dung trang web, lưu trữ đoạn trích, tối ưu thao tác cá nhân.
-- [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension): Extension giúp đánh dấu và lưu lại các đoạn văn bản quan trọng trên trình duyệt.
-- [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger): Tool gửi tin nhắn tự động
+- [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy): 
+- [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App):
+- [CleanerD](https://github.com/DuyNguyen2k6/CleanerD):
+- [Quick Edit Extension](https://github.com/DuyNguyen2k6/quick-edit_Extension): 
+- [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension): 
+- [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger): 
 ## ✨ Định hướng
 
 - Ưu tiên các công cụ đơn giản, dễ sử dụng, giao diện thân thiện.
