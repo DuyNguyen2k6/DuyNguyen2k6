@@ -75,7 +75,7 @@ irm "https://christitus.com/win" | iex
 ```
 
 ```
-irm https://get.activated.win | iex
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/TongHop/main/Wintool.ps1" | iex
 ```
 
 
@@ -83,7 +83,4 @@ irm https://get.activated.win | iex
 irm "https://raw.githubusercontent.com/DuyNguyen2k6/Driver-Backup_App/main/Driver.Backup.tool.ps1" | iex
 ```
 
-```
-irm "https://raw.githubusercontent.com/DuyNguyen2k6/TongHop/blob/main/Wintool.ps1" | iex
-```
 
