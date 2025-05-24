@@ -84,6 +84,6 @@ irm "https://raw.githubusercontent.com/DuyNguyen2k6/Driver-Backup_App/main/Drive
 ```
 
 ```
-irm "https://tinyurl.com/123DriverBackup" | iex
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/TongHop/blob/main/Wintool.ps1" | iex
 ```
 
