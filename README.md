@@ -83,4 +83,8 @@ irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Wintool.ps1" | iex
 irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Driver.Backup.ps1" | iex
 ```
 
+```
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/DNS Changer.ps1" | iex
+```
+
 
