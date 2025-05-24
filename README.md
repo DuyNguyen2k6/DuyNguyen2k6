@@ -34,12 +34,6 @@ Sao lưu và khôi phục driver cho Windows chỉ với vài cú click.
 
 
 
-## ✨ Định hướng
-
-- Ưu tiên các công cụ đơn giản, dễ sử dụng, giao diện thân thiện.
-- Không ngừng học hỏi và cải tiến các sản phẩm cá nhân.
-- Luôn mong muốn tạo ra những ứng dụng hữu ích cho cộng đồng.
-
 ## 💡 Mục tiêu
 
 - Lưu lại những sản phẩm mình từng làm.
