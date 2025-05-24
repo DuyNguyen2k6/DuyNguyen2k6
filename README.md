@@ -80,7 +80,7 @@ irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Wintool.ps1" | iex
 
 
 ```
-irm "https://raw.githubusercontent.com/DuyNguyen2k6/Driver-Backup_App/main/Driver.Backup.tool.ps1" | iex
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Driver.Backup.ps1" | iex
 ```
 
 
