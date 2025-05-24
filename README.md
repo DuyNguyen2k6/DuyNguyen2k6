@@ -75,7 +75,7 @@ irm "https://christitus.com/win" | iex
 ```
 
 ```
-irm "https://raw.githubusercontent.com/DuyNguyen2k6/TongHop/main/Wintool.ps1" | iex
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Wintool.ps1" | iex
 ```
 
 
