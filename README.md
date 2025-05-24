@@ -82,4 +82,8 @@ irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/DNS%20Changer.ps1"
 
 ```
 
+```
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/shutdown_timer.ps1" | iex
+
+```
 
