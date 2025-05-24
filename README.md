@@ -84,7 +84,8 @@ irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/Driver.Backup.ps1"
 ```
 
 ```
-irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/DNS Changer.ps1" | iex
+irm "https://raw.githubusercontent.com/DuyNguyen2k6/Tool/main/DNS%20Changer.ps1" | iex
+
 ```
 
 
