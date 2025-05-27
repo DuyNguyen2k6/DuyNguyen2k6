@@ -31,7 +31,8 @@ Tự động gửi tin nhắn hàng loạt, hẹn giờ trên các nền tảng 
 ### [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App)
 Sao lưu và khôi phục driver cho Windows chỉ với vài cú click.
 
-
+### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover/releases/tag/app)
+Xoá app android kể cả app cứng đầu nhất
 
 
 ## 💡 Mục tiêu
