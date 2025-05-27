@@ -25,7 +25,7 @@ Copy và lưu đoạn ghi chú từ trang Web bất kì chỉ với 1 click
 
 
 ### [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger)
-Tự động gửi tin nhắn hàng loạt, hẹn giờ trên các nền tảng chat.
+Tự động gửi tin nhắn hàng loạt, hẹn giờ trên các nền tảng Messenger.
 
 
 ### [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App)
