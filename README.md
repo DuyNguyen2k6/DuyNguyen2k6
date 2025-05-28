@@ -1,24 +1,22 @@
 # 👋 Hi, I'm Duy Nguyen!
 
 ## Dự án nổi bật
+### [Quick Edit Extension](https://github.com/DuyNguyen2k6/quick-edit_Extension) là công cụ cho phép bạn nhanh chóng chỉnh sửa nội dung của bất kỳ trang web nào
+
+
+### [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension) là công cụ giúp đánh dấu văn bản trên bất kỳ trang web nào và lưu lại nội dung
 
 ### [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy)  là ứng dụng giúp bạn đóng gói file  (.py) thành file thực thi (.exe)  chỉ với vài cú click chuột.
 
-### [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App)
+### [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App) là ứng dụng giúp bạn hẹn giờ tắt máy, khởi động lại, hoặc ngủ đông máy tính 
 
 
-### [CleanerD](https://github.com/DuyNguyen2k6/CleanerD)
-
-### [Quick Edit Extension](https://github.com/DuyNguyen2k6/quick-edit_Extension)
 
 
-### [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension)
+### [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger) là công cụ tự động gửi tin nhắn tự động Messenger hỗ trợ hẹn giờ, gửi vòng lặp
 
 
-### [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger)
-
-
-### [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App)
+### [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App) Giúp sao lưu và khôi phục tất cả trình điều khiển hệ thống chỉ bằng một cú nhấp chuột
 
 ### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover)
 
