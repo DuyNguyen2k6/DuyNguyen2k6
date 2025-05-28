@@ -29,14 +29,6 @@
 - Chia sẻ kinh nghiệm, giúp ích cho ai có nhu cầu sử dụng hoặc tham khảo.
 - Kết nối và giao lưu với mọi người cùng sở thích công nghệ.
 
----
-
-Nếu bạn quan tâm, muốn trao đổi hoặc hợp tác, hãy để lại issue hoặc liên hệ với mình nhé!  
-Cảm ơn bạn đã ghé thăm! 🚀
-
-> *“Build for fun, share for value.”*
-
-
 
 ## 🛠️ Tech Stack
 
