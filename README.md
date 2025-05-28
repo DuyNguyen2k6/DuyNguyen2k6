@@ -2,7 +2,7 @@
 
 ## Dự án nổi bật
 
-### [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy) dasdasdad
+### [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy)  là ứng dụng giúp bạn đóng gói file  (.py) thành file thực thi (.exe)  chỉ với vài cú click chuột.
 
 ### [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App)
 
