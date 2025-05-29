@@ -5,6 +5,8 @@
 
 ### [Highligh Save Extension](https://github.com/DuyNguyen2k6/highligh-save_Extension) Đánh dấu văn bản trên bất kỳ trang web nào và lưu lại nội dung
 
+### [BirthdayCountdown ](https://github.com/DuyNguyen2k6/BirthdayCountdown_Extension) Theme đếm ngược ngày sinh nhật cho trình duyệt
+
 ### [PyDeploy](https://github.com/DuyNguyen2k6/PyDeploy)  Đóng gói file  (.py) thành file thực thi (.exe)  chỉ với vài cú click chuột.
 
 ### [Shutdown Timer V2](https://github.com/DuyNguyen2k6/shutdown-timer_V2_App) Hẹn giờ tắt máy, khởi động lại, hoặc ngủ đông máy tính 
@@ -14,8 +16,6 @@
 ### [Driver-Backup](https://github.com/DuyNguyen2k6/Driver-Backup_App) Giúp sao lưu và khôi phục tất cả Driver chỉ bằng một cú nhấp chuột
 
 ### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover) Gỡ ứng dụng hệ thống Android bằng ADB, không cần root, giao diện đơn giản.
-
-### [BirthdayCountdown ](https://github.com/DuyNguyen2k6/BirthdayCountdown_Extension) Theme đếm ngược ngày sinh nhật cho trình duyệt
 
 ### [ToolkitMenu ](https://github.com/DuyNguyen2k6/Tool) Tổng hợp các công cụ quản lý và tối ưu hóa Windows
 
