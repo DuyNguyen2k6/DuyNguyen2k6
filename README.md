@@ -11,7 +11,7 @@
 
 ### [AutoMessenger](https://github.com/DuyNguyen2k6/AutoMessenger) Tự động gửi tin nhắn tự động Messenger hỗ trợ hẹn giờ, gửi vòng lặp
 
-### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover) Gỡ ứng dụng hệ thống Android bằng ADB, không cần root, giao diện đơn giản.
+### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover) Gỡ ứng dụng hệ thống Android bằng ADB, không cần root
 
 ### [ToolkitMenu ](https://github.com/DuyNguyen2k6/Tool) Tổng hợp các công cụ quản lý và tối ưu hóa Windows
 
