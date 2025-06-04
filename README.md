@@ -13,8 +13,6 @@
 
 ### [ADB-App-Remover](https://github.com/DuyNguyen2k6/ADB-App-Remover) Gỡ ứng dụng hệ thống Android bằng ADB, không cần root
 
-### [ToolkitMenu ](https://github.com/DuyNguyen2k6/Tool) Tổng hợp các công cụ quản lý và tối ưu hóa Windows
-
 ## 💡 Mục tiêu
 
 - Lưu lại những sản phẩm mình từng làm.
