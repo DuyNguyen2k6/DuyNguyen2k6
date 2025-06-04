@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Duy Nguyen!
 
---------  https://duynguyen2k6.github.io/CV/ --------
+=========  https://duynguyen2k6.github.io/CV/ =========
 
 ## 💡 Mục tiêu
 
