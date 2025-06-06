@@ -4,10 +4,9 @@
 
 ## 💡 Mục tiêu
 
-- Lưu lại những sản phẩm mình từng làm.
-- Chia sẻ kinh nghiệm, giúp ích cho ai có nhu cầu sử dụng hoặc tham khảo.
-- Kết nối và giao lưu với mọi người cùng sở thích công nghệ.
-
+- Save the products I have made.
+- Share experiences to help those who need to use or refer to them.
+- Connect and interact with people who share the same passion for technology.
 
 ## 🛠️ Tech Stack
 
